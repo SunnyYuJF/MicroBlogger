@@ -1,4 +1,4 @@
-from app import ab
+from app import db
 from models import User, Blogpost
 
 
