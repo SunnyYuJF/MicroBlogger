@@ -43,7 +43,7 @@ class User(UserMixin, db.Model):
 
 
 class Blogpost(db.Model):
-    __tablename__ = 'blogpost'
+    __tablename__ = 'blogposts'
     id = db.Column(db.Integer, primary_key=True)
     userid=db.Column(db.String(80))
     title=db.Column(db.String(80))

@@ -369,7 +369,7 @@
     <package id="167" parent="1" name="json_tree"/>
     <package id="168" parent="1" name="rtree"/>
     <package id="169" parent="1" name="rtree_i32"/>
-    <table id="170" parent="2" name="blogpost"/>
+    <table id="170" parent="2" name="blogposts"/>
     <table id="171" parent="2" name="followers"/>
     <table id="172" parent="2" name="sqlite_master">
       <System>1</System>
